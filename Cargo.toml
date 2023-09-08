@@ -5,3 +5,4 @@ edition = "2021"
 description = "Simple logger, write log into anywhere."
 
 [dependencies]
+log = { version = "0.4", features = ["std"] }
